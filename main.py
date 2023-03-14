@@ -12,16 +12,3 @@ else:
     a=(liste[0])
     b=(liste[-1])
     print(a+b)
-
-
-
-
-
-
-
-
-# for item in liste:
-#     if type(item) == str:
-#         print('Sayilarin Oldugu Bir Liste Giriniz!!')
-
-
